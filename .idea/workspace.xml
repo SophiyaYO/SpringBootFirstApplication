@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11ef4006-7c39-4f06-8d6d-cbc03030afa6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gE17wxH8oFu9rjdawFiWjvSC1U" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11ef4006-7c39-4f06-8d6d-cbc03030afa6" name="Default Changelist" comment="" />
+      <created>1597664773843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597664773843</updated>
+      <workItem from="1597664774896" duration="17000" />
+      <workItem from="1597664814107" duration="119000" />
+      <workItem from="1597664949618" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="910" y="232" key="#Notifications" timestamp="1597664824436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="910" y="232" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1597664824436" />
+    <state x="933" y="119" key="FileChooserDialogImpl" timestamp="1597664921529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597664921529" />
+    <state x="826" y="34" key="NewModule_or_Project.wizard" timestamp="1597664923721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="826" y="34" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1597664923721" />
+    <state x="555" y="56" key="SettingsEditor" timestamp="1597665170904">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597665170904" />
+    <state x="368" y="0" key="new project wizard" timestamp="1597664871902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1597664871902" />
+  </component>
+</project>
